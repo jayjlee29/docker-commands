@@ -12,7 +12,6 @@ docker commit 548113ec4304 couchbase/test/20210121
 ```
 
 ## docker image 삭제
-> https://velog.io/@soonbee/docker-image%EB%A5%BC-%EC%82%AD%EC%A0%9C%ED%95%98%EB%8A%94-%EB%8B%A4%EC%96%91%ED%95%9C-%EB%B0%A9%EB%B2%95%EB%93%A4
 
 ## repository or tag가 none인 이미지 삭제
 
